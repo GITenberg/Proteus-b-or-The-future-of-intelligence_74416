@@ -1,0 +1,32 @@
+_repo: Proteus-b-or-The-future-of-intelligence_74416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lee, Vernon
+    alias: Paget, Violet
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '2683'
+    url: http://www.gutenberg.org/2009/agents/2683
+    wikipedia: https://en.wikipedia.org/wiki/Vernon_Lee
+description: ''
+gutenberg_issued: '2024-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74416'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.31822017030347
+pgterms:marc905: 20240513105458lee
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Produced by Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bE. P. Dutton & Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Proteus : $b or, The future of intelligence'
+url: http://www.gutenberg.org/ebooks/74416
